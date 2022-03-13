@@ -8,7 +8,7 @@ public class SampleTest {
     public void get(){
         WebDriverManager.edgedriver().setup();
         WebDriver web = new EdgeDriver();
-        web.get("https://healthy.kaiserpermanente.org/front-door");
+        web.get("https://www.google.com/");
         System.out.println("Hello world");
     }
 }
