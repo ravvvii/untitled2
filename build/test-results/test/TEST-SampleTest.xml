@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-13T04:53:07" hostname="DESKTOP-7C6QSB4" time="14.528">
+<testsuite name="SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-22T05:19:42" hostname="DESKTOP-7C6QSB4" time="10.435">
   <properties/>
-  <testcase name="get()" classname="SampleTest" time="14.528"/>
-  <system-out><![CDATA[Hello world
-]]></system-out>
+  <testcase name="get()" classname="SampleTest" time="10.435"/>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[log4j:WARN No appenders could be found for logger (io.github.bonigarcia.wdm.cache.ResolutionCache).
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-Starting MSEdgeDriver 99.0.1150.39 (83e7eb830583bb2e45c92fa97398f3704f87af0d) on port 55933
+Starting MSEdgeDriver 99.0.1150.46 (a1c1ea02160226bf4a0831a74f06de8edf55ffcf) on port 63893
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
 MSEdgeDriver was started successfully.
-Mar 13, 2022 10:23:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Mar 22, 2022 10:49:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-Mar 13, 2022 10:23:15 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 22, 2022 10:49:48 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
-Mar 13, 2022 10:23:15 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Mar 22, 2022 10:49:48 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFO: Found CDP implementation for version 99 of 97
 ]]></system-err>
 </testsuite>
